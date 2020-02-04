@@ -22,6 +22,10 @@ p {
     margin: 0;
 }
 
+ul {
+    margin: 0;
+}
+
 .container {
     width: 1024px;
     margin: 0 auto;
@@ -69,4 +73,47 @@ p {
 
 .header__contacts-text:hover {
     text-decoration: underline;
+}
+
+.main {
+    padding: 30px 30px 15px 30px;
+
+    background-color: rgb(185, 185, 99);
+}
+
+.resume__item {
+    margin-bottom: 30px;
+    padding-bottom: 20px;
+
+    border-bottom: 2px dotted white;
+}
+.resume__item-title {
+    margin-bottom: 20px;
+
+    font-size: 3rem;
+    color: gray;
+    text-transform: uppercase;
+}
+
+.resume__item-text {
+    font-size: 2rem;
+    color: white;
+}
+
+.resume__item-link {
+    font-size: 2rem;
+    color: gray;
+    text-decoration: none;
+
+    transform: text-decoration .2s linear, color .2s linear;
+}
+
+.resume__item-link:hover {
+    color: white;
+    text-decoration: underline;
+}
+.resume__item-list {
+    margin-bottom: 15px;
+
+    color: white;
 }
