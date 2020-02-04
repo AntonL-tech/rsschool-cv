@@ -1,0 +1,72 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    margin: 0;
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 1.6rem;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+}
+
+p {
+    margin: 0;
+}
+
+.container {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+    background-color: rgb(156, 156, 63);
+}
+.header__info {
+    padding: 15px 0;
+}
+
+.header__info-title {
+    margin-bottom: 15px;
+
+    font-size: 4rem;
+    color: white;
+    text-transform: uppercase;
+}
+
+.header__contacts-item {
+    margin-bottom: 15px;
+}
+
+.header__contacts-title {
+    margin-bottom: 15px;
+
+    font-size: 3rem;
+    color: black;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.header__contacts-text {
+    font-size: 2rem;
+    color: white;
+    text-decoration: none;
+
+    transition: text-decoration .2s linear;
+}
+
+
+.header__contacts-text:hover {
+    text-decoration: underline;
+}
