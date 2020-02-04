@@ -105,7 +105,7 @@ ul {
     color: gray;
     text-decoration: none;
 
-    transform: text-decoration .2s linear, color .2s linear;
+    transition: color .2s linear;
 }
 
 .resume__item-link:hover {
@@ -116,4 +116,23 @@ ul {
     margin-bottom: 15px;
 
     color: white;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+
+    background-color: rgb(156, 156, 63);
+}
+.footer__link {
+    font-size: 2rem;
+    color: black;
+    text-decoration: none;
+
+    transition: color .2s linear;
+}
+.footer__link:hover {
+    color: white;
+    text-decoration: underline;
 }
