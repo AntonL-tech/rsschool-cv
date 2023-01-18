@@ -1,0 +1,8 @@
+1. Anton, Lashuk.
+2. *e-mail:*  antonlashyk@gmail.com, *telegram:*  djokoq, *phone:*  +375299408128.
+3. I am self-organized and very motivated to become a front-end developer. I learn JS on [codeacademy](https://www.codecademy.com/profiles/djokoq) and also doing tasks on [codewars](https://www.codewars.com/users/AntonLTECH) everyday. I'm ver interested in this course and job in future.
+4. **Skills:** Git, HTML, CSS, Bootstrap, BEM, JS basics, JQuery.
+5. **Latest projects:** [DHL_project](https://github.com/AntonL-tech/DHL__project), [AvtiveBox](https://github.com/AntonL-tech/Active-Box), [JSChallenges](https://github.com/AntonL-tech/JS_Challenges).
+6. I listened to the Basic Computer Science course and successfully completed the course website development with HTML, CSS & JavaScript in IT-Academy, i also learn JS on [codeacademy](https://www.codecademy.com/profiles/djokoq) and do tasks on [codewars](https://www.codewars.com/users/AntonLTECH). Use [Udemy](https://www.udemy.com/course/javascript_full/learn/practice/1068402?start=summary#overview) to learn JS too. All my projects: [my GitHub](https://github.com/AntonL-tech?tab=repositories).
+7. I graduated BNTU, Faculty of Civil Engineering, listened to the Basic Computer Science course and successfully completed the course website development with HTML, CSS & JavaScript in IT-Academy.
+8. According to [training.by](https://training.by/UserProfile#!/Main/?lang=en) my English level is *B1(Intermediate)*.
